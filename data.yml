@@ -1,0 +1,112 @@
+show: A Fairytale For Christmas
+instruments:
+  - unit: "1"
+    instrumentType: "Source 4 36 Degree"
+    wattage: "750W"
+    purpose: "Front Wash"
+    gel: ""
+    channel: "201"
+    location: 
+      - "3L"
+      - "1"
+    focus: ""
+    shutterCuts:
+      US: ""
+      DS: "DS Floor"
+      TP: ""
+      BT: ""
+      SL: ""
+      SR: "OOL1"
+    edge:
+      SfHd: 1
+      SpFl: 0
+      Axis: 0
+
+  - unit: "2"
+    instrumentType: "Source 4 26 Degree"
+    wattage: "575W"
+    purpose: "Key Light"
+    gel: "203"
+    channel: "202"
+    location: 
+      - "3L"
+      - "1"
+    focus: ""
+    shutterCuts:
+      US: "US Edge"
+      DS: "DS Floor"
+      TP: ""
+      BT: ""
+      SL: "SL Edge"
+      SR: ""
+    edge:
+      SfHd: 2
+      SpFl: 0
+      Axis: 0
+
+  - unit: "3"
+    instrumentType: "LED Fresnel"
+    wattage: "300W"
+    purpose: "Back Light"
+    gel: "205"
+    channel: "203"
+    location: 
+      - "3L"
+      - "1"
+    focus: ""
+    shutterCuts:
+      US: ""
+      DS: "DS Edge"
+      TP: "TP Edge"
+      BT: ""
+      SL: ""
+      SR: "SR Edge"
+    edge:
+      SfHd: 0
+      SpFl: 1
+      Axis: 0
+
+  - unit: "4"
+    instrumentType: "Ellipsoidal 19 Degree"
+    wattage: "1000W"
+    purpose: "Spot Light"
+    gel: "201"
+    channel: "204"
+    location: 
+      - "3L"
+      - "1"
+    focus: "Needs to hit her face when she crouches"
+    shutterCuts:
+      US: "US Edge"
+      DS: ""
+      TP: "TP Edge"
+      BT: ""
+      SL: ""
+      SR: "SR Floor"
+    edge:
+      SfHd: 3
+      SpFl: 0
+      Axis: 0
+
+  - unit: "5"
+    instrumentType: "PAR Can"
+    wattage: "500W"
+    purpose: "Wash Light"
+    gel: "G/B"
+    channel: "205"
+    location: 
+      - "3L"
+      - "1"
+    focus: "SAA"
+    shutterCuts:
+      US: ""
+      DS: "DS Edge"
+      TP: ""
+      BT: "BT Edge"
+      SL: ""
+      SR: ""
+    edge:
+      SfHd: 0
+      SpFl: 0
+      Axis: 4
+

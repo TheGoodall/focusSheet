@@ -36,7 +36,7 @@
             if fix.edge.SfHd == 2 {circle(inset: 0pt, outset: 10pt, [+])} else {[+]},
             if fix.edge.SfHd == 3 {circle(inset: 0pt, outset: 10pt, [Hd])} else {[Hd]},
             ),
-        [UD: #fix.shutterCuts.DS], [SL: #fix.shutterCuts.SL],
+        [DS: #fix.shutterCuts.DS], [SL: #fix.shutterCuts.SL],
           table(stroke: none, columns: 3,
             if fix.edge.SpFl == 1 {circle(inset: 0pt, outset: 10pt, [Sp])} else {[Sp]},
             if fix.edge.SpFl == 2 {circle(inset: 0pt, outset: 10pt, [+])} else {[+]},
